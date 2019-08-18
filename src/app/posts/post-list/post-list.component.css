@@ -6,3 +6,16 @@
 mat-spinner {
   margin: auto;
 }
+
+mat-paginator {
+  margin-top: 1rem;
+}
+
+.post-image {
+  width: 50% !important;
+}
+
+.post-image img {
+  width: 50% !important;
+  box-shadow: 1px 1px 5px rgb(0, 0, 0.5);
+}
